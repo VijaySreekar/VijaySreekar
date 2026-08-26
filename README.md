@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png">
-  <img src="./assets/hero-animated.svg" width="100%" alt="Animated London skyline flowing into cloud infrastructure">
+  <img src="./assets/hero-animated.gif" width="100%" alt="Animated London skyline flowing into cloud infrastructure">
 </picture>
 
 <h1 align="center">Vijay Sreekar</h1>
