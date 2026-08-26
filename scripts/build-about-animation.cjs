@@ -33,19 +33,19 @@ const lines = [
     ["const", colors.keyword], [" vijay", colors.text], [" = ", colors.punctuation], ["{", colors.punctuation],
   ],
   [
-    ["  role", colors.property], [": ", colors.punctuation], ["\"Full-Stack Developer\"", colors.stringWarm], [",", colors.punctuation],
+    ["  role", colors.property], [": ", colors.punctuation], ["\"Backend & Cloud Developer\"", colors.stringWarm], [",", colors.punctuation],
   ],
   [
-    ["  focus", colors.property], [": [", colors.punctuation], ["\"Cloud\"", colors.string], [", ", colors.punctuation], ["\"AI\"", colors.stringWarm], [", ", colors.punctuation], ["\"Backend\"", colors.string], ["],", colors.punctuation],
+    ["  focus", colors.property], [": [", colors.punctuation], ["\"APIs\"", colors.string], [", ", colors.punctuation], ["\"Automation\"", colors.stringWarm], [", ", colors.punctuation], ["\"Applied AI\"", colors.string], ["],", colors.punctuation],
   ],
   [
     ["  building", colors.property], [": [", colors.punctuation], ["\"Wandrix\"", colors.string], [", ", colors.punctuation], ["\"Modular ERP\"", colors.stringWarm], ["],", colors.punctuation],
   ],
   [
-    ["  stack", colors.property], [": [", colors.punctuation], ["\"TypeScript\"", colors.string], [", ", colors.punctuation], ["\"Python\"", colors.stringWarm], [", ", colors.punctuation], ["\"FastAPI\"", colors.string], [", ", colors.punctuation], ["\"Next.js\"", colors.stringWarm], ["],", colors.punctuation],
+    ["  stack", colors.property], [": [", colors.punctuation], ["\"Python\"", colors.stringWarm], [", ", colors.punctuation], ["\"TypeScript\"", colors.string], [", ", colors.punctuation], ["\"FastAPI\"", colors.stringWarm], [", ", colors.punctuation], ["\"PostgreSQL\"", colors.string], [", ", colors.punctuation], ["\"Azure\"", colors.stringWarm], ["],", colors.punctuation],
   ],
   [
-    ["  principle", colors.property], [": ", colors.punctuation], ["\"simple systems, shipped well\"", colors.string], [",", colors.punctuation],
+    ["  principle", colors.property], [": ", colors.punctuation], ["\"reliable systems, shipped well\"", colors.string], [",", colors.punctuation],
   ],
   [
     ["  status", colors.property], [": ", colors.punctuation], ["\"learning, building, improving\"", colors.stringWarm],

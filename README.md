@@ -6,20 +6,26 @@
 <h1 align="center">Vijay Sreekar</h1>
 
 <p align="center">
-  <strong>Computer Science student building dependable full-stack products and cloud-ready systems.</strong>
+  <strong>Backend &amp; cloud-focused developer building reliable APIs, automation, and AI-enabled systems.</strong>
 </p>
 
 <p align="center">
-  Full-stack engineering · Cloud systems · Production automation · AI applications
+  Python · TypeScript · FastAPI · PostgreSQL · Azure
+</p>
+
+<p align="center">
+  <img alt="Focus: Backend and Cloud" src="https://img.shields.io/badge/FOCUS-Backend_%26_Cloud-61cbff?style=flat-square&labelColor=0d1727">
+  <img alt="Building: Wandrix and Modular ERP" src="https://img.shields.io/badge/BUILDING-Wandrix_%2B_Modular_ERP-e6b85c?style=flat-square&labelColor=0d1727">
+  <img alt="Exploring: Applied AI" src="https://img.shields.io/badge/EXPLORING-Applied_AI-56d364?style=flat-square&labelColor=0d1727">
 </p>
 
 ---
 
 ### A little about me
 
-Hi, I'm Vijay — a Computer Science student and full-stack developer who enjoys building the whole product: interface, API, data model, deployment, and the small automations that keep everything running.
+Hi, I'm Vijay — a Computer Science student focused on **backend and cloud engineering** for modern products. I spend most of my time designing APIs, data models, operational automation, and delivery paths that remain dependable after launch.
 
-I'm especially interested in **cloud systems, practical AI, and backend architecture**. I prefer software that is understandable and dependable over complexity for its own sake, and I like improving products through short build–observe–refine cycles.
+TypeScript and React are part of my product toolkit, but my centre of gravity is **Python/FastAPI, data, cloud delivery, and applied AI integrations**. I prefer explicit architecture, useful observability, and small systems that are easy to operate and improve.
 
 Right now, I'm building **Wandrix**, an AI-assisted travel platform, alongside a modular **ERP system** that spans real business workflows.
 
@@ -47,33 +53,52 @@ Right now, I'm building **Wandrix**, an AI-assisted travel platform, alongside a
 
 | Project | What it demonstrates | Stack |
 | :--- | :--- | :--- |
-| [**Wandrix Live**](https://github.com/VijaySreekar/Wandrix-Live) | A deployment-ready application shaped around practical delivery | Python · Cloud |
-| [**Spotify Insights**](https://github.com/VijaySreekar/StreamLitSpotifyInsights) | Interactive exploration of listening data and music patterns | Python · Streamlit |
-| [**Alarm App**](https://github.com/VijaySreekar/AlarmApp) | A focused browser utility with a straightforward user experience | JavaScript |
+| [**Wandrix Live**](https://github.com/VijaySreekar/Wandrix-Live) | AI-assisted travel planning with API orchestration, persistence, caching, and monitoring | Next.js · FastAPI · Supabase |
+| [**Spotify Insights**](https://github.com/VijaySreekar/StreamLitSpotifyInsights) | Interactive analysis of listening data and music patterns | Python · Streamlit |
+| [**Alarm App**](https://github.com/VijaySreekar/AlarmApp) | A focused browser utility with time-based interactions | JavaScript |
 
-### Toolbox
+### Engineering stack
 
+<sub><strong>CORE SYSTEMS</strong></sub>
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1727?style=flat-square&logo=typescript&logoColor=61cbff">
   <img alt="Python" src="https://img.shields.io/badge/Python-0d1727?style=flat-square&logo=python&logoColor=e6b85c">
-  <img alt="Java" src="https://img.shields.io/badge/Java-0d1727?style=flat-square&logo=openjdk&logoColor=61cbff">
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-0d1727?style=flat-square&logo=dotnet&logoColor=61cbff">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1727?style=flat-square&logo=nextdotjs&logoColor=ffffff">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1727?style=flat-square&logo=typescript&logoColor=61cbff">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d1727?style=flat-square&logo=fastapi&logoColor=61cbff">
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-0d1727?style=flat-square&logo=dotnet&logoColor=61cbff">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1727?style=flat-square&logo=postgresql&logoColor=61cbff">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0d1727?style=flat-square&logo=microsoftazure&logoColor=61cbff">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1727?style=flat-square&logo=docker&logoColor=61cbff">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1727?style=flat-square&logo=githubactions&logoColor=e6b85c">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0d1727?style=flat-square&logo=supabase&logoColor=e6b85c">
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0d1727?style=flat-square&logo=sqlalchemy&logoColor=e6b85c">
 </p>
 
-### How I work
+<sub><strong>CLOUD &amp; DELIVERY</strong></sub>
+<p>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0d1727?style=flat-square&logo=microsoftazure&logoColor=61cbff">
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0d1727?style=flat-square&logo=azuredevops&logoColor=61cbff">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1727?style=flat-square&logo=docker&logoColor=61cbff">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1727?style=flat-square&logo=githubactions&logoColor=e6b85c">
+  <img alt="SonarCloud" src="https://img.shields.io/badge/SonarCloud-0d1727?style=flat-square&logo=sonarcloud&logoColor=e6b85c">
+  <img alt="Sentry" src="https://img.shields.io/badge/Sentry-0d1727?style=flat-square&logo=sentry&logoColor=61cbff">
+</p>
 
-```text
-understand the problem → ship a useful slice → observe → improve
-```
+<sub><strong>PRODUCT &amp; AI</strong></sub>
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1727?style=flat-square&logo=nextdotjs&logoColor=ffffff">
+  <img alt="React" src="https://img.shields.io/badge/React-0d1727?style=flat-square&logo=react&logoColor=61cbff">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0d1727?style=flat-square&logo=tailwindcss&logoColor=61cbff">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0d1727?style=flat-square&logo=supabase&logoColor=e6b85c">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0d1727?style=flat-square&logo=langchain&logoColor=61cbff">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0d1727?style=flat-square&logo=huggingface&logoColor=e6b85c">
+</p>
 
-I value readable code, honest documentation, automated checks, and infrastructure that stays proportional to the product.
+### Code to cloud
+
+I care about the full delivery path around a backend service: explicit contracts, automated checks, reproducible containers, controlled deployment, and useful signals after release.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/code-to-cloud-static.png">
+    <img width="100%" alt="Animated code-to-cloud pipeline moving through code, API design, tests, container build, cloud deployment, and observability" src="./assets/code-to-cloud.gif">
+  </picture>
+</p>
 
 ---
 
