@@ -15,48 +15,24 @@
 
 ---
 
-### Impact at a glance
+### GitHub snapshot
 
-<table>
-  <tr>
-    <td align="center"><strong>70–90%</strong><br><sub>fewer trader-raised incidents</sub></td>
-    <td align="center"><strong>30–45%</strong><br><sub>fewer repeat incidents</sub></td>
-    <td align="center"><strong>2.5 hours/day</strong><br><sub>manual effort saved</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>18</strong><br><sub>automated health checks</sub></td>
-    <td align="center"><strong>15</strong><br><sub>one-click remediation workflows</sub></td>
-    <td align="center"><strong>3 teams</strong><br><sub>using one internal platform</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img width="100%" alt="Vijay's contribution history and public repository count" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VijaySreekar&theme=github_dark">
+</p>
 
-### Production experience
+<p align="center">
+  <img height="180" alt="Vijay's stars, commits, pull requests, issues, and contributed repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijaySreekar&theme=github_dark">
+  <img height="180" alt="Languages across Vijay's public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VijaySreekar&theme=github_dark">
+</p>
 
-**Uniper — Trading IT Placement & Software Developer Intern**<br>
-*July 2024 – December 2025 · Gas and Power Dispatch Trading*
+<p align="center"><sub>Live metrics generated from public GitHub activity.</sub></p>
 
-- Owned the lifecycle of a cloud-hosted incident-management platform, from design and APIs through deployment and 24/7 operation.
-- Built with **Next.js, FastAPI, PostgreSQL, Oracle, Azure, Docker, and Azure DevOps**.
-- Analysed **2 years of ServiceNow data** to identify recurring faults and automate common operational fixes.
-- Returned to productionise the platform with staged environments, CI/CD quality gates, Microsoft Entra ID RBAC, and scheduled Azure Functions.
-- Reduced out-of-hours escalations by a further **15–25%** through scheduled health-check automation.
+### About
 
-<sub>Also balancing part-time customer-facing work at William Hill alongside university and technical experience.</sub>
-
-### Building now
-
-| Product | Scope | Engineering focus |
-| :--- | :--- | :--- |
-| **AI Travel Package Generator** | Personalised, agent-driven itineraries using preferences and external APIs | Next.js · FastAPI · Supabase · LangChain · Hugging Face |
-| **Full-Stack ERP System** | Modular CRM, Sales, Inventory, Finance, and HR workflows | Next.js · FastAPI · PostgreSQL · SQLAlchemy · RBAC |
-
-### What I care about
-
-I enjoy turning ambitious ideas into software that is understandable, deployable, and pleasant to use. My focus is full-stack product development, automation, and the engineering foundations that help applications survive beyond the first demo.
-
-- Building useful end-to-end product experiences
-- Designing reliable APIs, data flows, and deployment pipelines
-- Improving systems through small, testable iterations
+- Building full-stack applications, cloud systems, and practical AI tools
+- Interested in reliable APIs, automation, and production-friendly architecture
+- Currently working on an AI travel platform and a modular ERP system
 
 ### Selected work
 
@@ -81,22 +57,6 @@ I enjoy turning ambitious ideas into software that is understandable, deployable
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1727?style=flat-square&logo=githubactions&logoColor=e6b85c">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0d1727?style=flat-square&logo=supabase&logoColor=e6b85c">
 </p>
-
-### GitHub metrics
-
-<p align="center">
-  <img width="100%" alt="Vijay's contribution history and public repository count" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VijaySreekar&theme=github_dark">
-</p>
-
-<p align="center">
-  <img height="180" alt="Vijay's stars, commits, pull requests, issues, and contributed repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijaySreekar&theme=github_dark">
-</p>
-
-<p align="center"><sub>Live cards reflect public GitHub activity; the production outcomes above come from real-world engineering work.</sub></p>
-
-### Education
-
-**Aston University** — BSc (Hons) Computer Science, expected First Class · 2023–2026
 
 ### How I work
 
