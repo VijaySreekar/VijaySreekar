@@ -15,6 +15,21 @@
 
 ---
 
+### A little about me
+
+Hi, I'm Vijay — a Computer Science student and full-stack developer who enjoys building the whole product: interface, API, data model, deployment, and the small automations that keep everything running.
+
+I'm especially interested in **cloud systems, practical AI, and backend architecture**. I prefer software that is understandable and dependable over complexity for its own sake, and I like improving products through short build–observe–refine cycles.
+
+Right now, I'm building **Wandrix**, an AI-assisted travel platform, alongside a modular **ERP system** that spans real business workflows.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/about-code-static.png">
+    <img width="100%" alt="Animated TypeScript profile describing Vijay's role, interests, projects, stack, and engineering principles" src="./assets/about-code.gif">
+  </picture>
+</p>
+
 ### GitHub snapshot
 
 <p align="center">
@@ -27,12 +42,6 @@
 </p>
 
 <p align="center"><sub>Live metrics generated from public GitHub activity.</sub></p>
-
-### About
-
-- Building full-stack applications, cloud systems, and practical AI tools
-- Interested in reliable APIs, automation, and production-friendly architecture
-- Currently working on an AI travel platform and a modular ERP system
 
 ### Selected work
 
