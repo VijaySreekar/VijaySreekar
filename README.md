@@ -85,11 +85,14 @@ I enjoy turning ambitious ideas into software that is understandable, deployable
 ### GitHub metrics
 
 <p align="center">
-  <img height="170" alt="Vijay's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=VijaySreekar&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1727&title_color=61cbff&icon_color=e6b85c&text_color=c9d1d9&rank_icon=github">
-  <img height="170" alt="Most-used languages across Vijay's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs?username=VijaySreekar&layout=compact&langs_count=6&hide_border=true&bg_color=0d1727&title_color=61cbff&text_color=c9d1d9&size_weight=0.5&count_weight=0.5">
+  <img width="100%" alt="Vijay's contribution history and public repository count" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VijaySreekar&theme=github_dark">
 </p>
 
-<p align="center"><sub>Language cards reflect public repository composition, not proficiency.</sub></p>
+<p align="center">
+  <img height="180" alt="Vijay's stars, commits, pull requests, issues, and contributed repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijaySreekar&theme=github_dark">
+</p>
+
+<p align="center"><sub>Live cards reflect public GitHub activity; the production outcomes above come from real-world engineering work.</sub></p>
 
 ### Education
 
