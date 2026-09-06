@@ -13,3 +13,7 @@ Use case: stylized-concept. Create a new wide decorative footer illustration for
 `london-workspace-animated.gif` is a locally rendered animation of the same illustration, built by `scripts/build-london-animation.cjs` using Canvas and Sharp. The original composition stays fixed; localized river displacement, lamplight, existing window lights, laptop glow, and fine steam ribbons repeat in an eight-second loop. The source PNG remains the reduced-motion fallback and footer artwork. The original London-to-cloud assets are retained in the repository.
 
 Build dependencies: `@napi-rs/canvas` and `sharp`. Run `node scripts/build-london-animation.cjs` with those modules available.
+
+## Visible code animation revision
+
+`london-workspace-animated-v2.gif` adds a perspective-mapped decorative Python editor to the laptop. Text types in, lines scroll, the cursor blinks, and a small status sweep moves. River displacement, reflected light, lamp variation, and mug steam are stronger than in the first version. The snippet is illustrative and does not represent a running project or test result. The loop is120frames at80ms each (9.6seconds). A distinct filename avoids reusing the earlier cached GIF. The PNG remains the reduced-motion fallback.

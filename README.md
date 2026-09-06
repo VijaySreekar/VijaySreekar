@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/london-workspace.png">
-  <img src="./assets/london-workspace-animated.gif" width="100%" alt="Animated London workspace with gently shimmering river reflections, warm lamplight, and a softly glowing laptop">
+  <img src="./assets/london-workspace-animated-v2.gif" width="100%" alt="Animated London workspace with code typing and scrolling on the laptop, a blinking cursor, moving water reflections, and warm lamplight">
 </picture>
 
 <h1 align="center">Vijay Sreekar</h1>
