@@ -1,111 +1,78 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png">
-  <img src="./assets/hero-animated.gif" width="100%" alt="Animated London skyline flowing into cloud infrastructure">
+  <img src="./assets/hero-animated.gif" width="100%" alt="London's skyline meeting a network of cloud services, in blue and gold">
 </picture>
 
-<h1 align="center">Vijay Sreekar</h1>
+# Vijay Sreekar
 
-<p align="center">
-  <strong>Backend &amp; cloud-focused developer building reliable APIs, automation, and AI-enabled systems.</strong>
-</p>
+I build backend services and the interfaces around them. My work spans travel planning, data analysis, and web applications, with a focus on Python, APIs, and how data moves through a product.
 
-<p align="center">
-  Python · TypeScript · FastAPI · PostgreSQL · Azure
-</p>
+Currently building **[Wandrix](https://www.wandrix.app/)**, a travel planner that keeps a conversation and a structured trip board side by side.
 
-<p align="center">
-  <img alt="Focus: Backend and Cloud" src="https://img.shields.io/badge/FOCUS-Backend_%26_Cloud-61cbff?style=flat-square&labelColor=0d1727">
-  <img alt="Building: Wandrix and Modular ERP" src="https://img.shields.io/badge/BUILDING-Wandrix_%2B_Modular_ERP-e6b85c?style=flat-square&labelColor=0d1727">
-  <img alt="Exploring: Applied AI" src="https://img.shields.io/badge/EXPLORING-Applied_AI-56d364?style=flat-square&labelColor=0d1727">
-</p>
+[Selected projects](#selected-projects) · [All projects](./PROJECTS.md) · [Repositories](https://github.com/VijaySreekar?tab=repositories)
 
----
+## Selected projects
 
-### A little about me
+### Wandrix
 
-Hi, I'm Vijay — a Computer Science student focused on **backend and cloud engineering** for modern products. I spend most of my time designing APIs, data models, operational automation, and delivery paths that remain dependable after launch.
+Describe a trip, compare destinations, and turn the plan into a saved brochure. A Next.js interface connects to a FastAPI backend, with a LangGraph planning runtime and PostgreSQL persistence.
 
-TypeScript and React are part of my product toolkit, but my centre of gravity is **Python/FastAPI, data, cloud delivery, and applied AI integrations**. I prefer explicit architecture, useful observability, and small systems that are easy to operate and improve.
+<a href="https://github.com/VijaySreekar/Wandrix-Live">
+  <img src="./assets/projects/wandrix-workspace.png" width="100%" alt="Earlier Wandrix workspace showing a travel conversation beside destination suggestions for the Canary Islands, Malta, Madeira, and Seville">
+</a>
 
-Right now, I'm building **Wandrix**, an AI-assisted travel platform, alongside a modular **ERP system** that spans real business workflows.
+<sub>Earlier development capture from the Wandrix repository. The live interface continues to evolve.</sub>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/about-code-static.png">
-    <img width="100%" alt="Animated TypeScript profile describing Vijay's role, interests, projects, stack, and engineering principles" src="./assets/about-code.gif">
-  </picture>
-</p>
+**Engineering:** conversation state, editable trip drafts, and versioned brochure snapshots connected to the same trip.
 
-### GitHub snapshot
+**Python · FastAPI · Next.js · PostgreSQL · LangGraph**
 
-<p align="center">
-  <img width="100%" alt="Vijay's contribution history and public repository count" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VijaySreekar&theme=github_dark">
-</p>
+[View code & architecture](https://github.com/VijaySreekar/Wandrix-Live#architecture) · [Visit Wandrix](https://www.wandrix.app/)
 
-<p align="center">
-  <img height="180" alt="Vijay's stars, commits, pull requests, issues, and contributed repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijaySreekar&theme=github_dark">
-  <img height="180" alt="Languages across Vijay's public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VijaySreekar&theme=github_dark">
-</p>
+### Spotify Insights
 
-<p align="center"><sub>Live metrics generated from public GitHub activity.</sub></p>
+An interactive analysis of listening history: favourite artists, repeated tracks, and patterns across days and hours. Built with **[GanapathiThota](https://github.com/GanapathiThota)**.
 
-### Selected work
+<a href="https://github.com/VijaySreekar/StreamLitSpotifyInsights">
+  <img src="./assets/projects/spotify-analysis.png" width="100%" alt="Spotify Insights running an analysis of a fictional listening-history dataset">
+</a>
 
-| Project | What it demonstrates | Stack |
-| :--- | :--- | :--- |
-| [**Wandrix Live**](https://github.com/VijaySreekar/Wandrix-Live) | AI-assisted travel planning with API orchestration, persistence, caching, and monitoring | Next.js · FastAPI · Supabase |
-| [**Spotify Insights**](https://github.com/VijaySreekar/StreamLitSpotifyInsights) | Interactive analysis of listening data and music patterns | Python · Streamlit |
-| [**Alarm App**](https://github.com/VijaySreekar/AlarmApp) | A focused browser utility with time-based interactions | JavaScript |
+<sub>Application capture using fictional artists, tracks, and listening history.</sub>
 
-### Engineering stack
+**Engineering:** JSON/CSV ingestion, timestamp normalization, grouped analysis, and selectable visualizations in Streamlit.
 
-<sub><strong>CORE SYSTEMS</strong></sub>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-0d1727?style=flat-square&logo=python&logoColor=e6b85c">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1727?style=flat-square&logo=typescript&logoColor=61cbff">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d1727?style=flat-square&logo=fastapi&logoColor=61cbff">
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-0d1727?style=flat-square&logo=dotnet&logoColor=61cbff">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1727?style=flat-square&logo=postgresql&logoColor=61cbff">
-  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0d1727?style=flat-square&logo=sqlalchemy&logoColor=e6b85c">
-</p>
+**Python · pandas · Streamlit · Matplotlib · Seaborn**
 
-<sub><strong>CLOUD &amp; DELIVERY</strong></sub>
-<p>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0d1727?style=flat-square&logo=microsoftazure&logoColor=61cbff">
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0d1727?style=flat-square&logo=azuredevops&logoColor=61cbff">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1727?style=flat-square&logo=docker&logoColor=61cbff">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1727?style=flat-square&logo=githubactions&logoColor=e6b85c">
-  <img alt="SonarCloud" src="https://img.shields.io/badge/SonarCloud-0d1727?style=flat-square&logo=sonarcloud&logoColor=e6b85c">
-  <img alt="Sentry" src="https://img.shields.io/badge/Sentry-0d1727?style=flat-square&logo=sentry&logoColor=61cbff">
-</p>
+[View code & sample data](https://github.com/VijaySreekar/StreamLitSpotifyInsights) · [Try the app](https://appspotifyinsights-zdr4w9e8yfszel8mxq275p.streamlit.app/)
 
-<sub><strong>PRODUCT &amp; AI</strong></sub>
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1727?style=flat-square&logo=nextdotjs&logoColor=ffffff">
-  <img alt="React" src="https://img.shields.io/badge/React-0d1727?style=flat-square&logo=react&logoColor=61cbff">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0d1727?style=flat-square&logo=tailwindcss&logoColor=61cbff">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0d1727?style=flat-square&logo=supabase&logoColor=e6b85c">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0d1727?style=flat-square&logo=langchain&logoColor=61cbff">
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0d1727?style=flat-square&logo=huggingface&logoColor=e6b85c">
-</p>
+### Treakers
 
-### Code to cloud
+A sneaker storefront with product filtering, a basket, and an admin area for products and orders. Built as part of **Team 27 at Aston University**; the demo repository makes the university project easier to explore.
 
-I care about the full delivery path around a backend service: explicit contracts, automated checks, reproducible containers, controlled deployment, and useful signals after release.
+<a href="https://github.com/VijaySreekar/treakers-demo">
+  <img src="./assets/projects/treakers-storefront.png" width="100%" alt="Treakers sneaker storefront with its demo navigation and illustrated shoe landing page">
+</a>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/code-to-cloud-static.png">
-    <img width="100%" alt="Animated code-to-cloud pipeline moving through code, API design, tests, container build, cloud deployment, and observability" src="./assets/code-to-cloud.gif">
-  </picture>
-</p>
+<sub>Live demo capture. The repository also includes catalogue and admin screenshots.</sub>
 
----
+**Engineering:** server-rendered PHP pages, relational data, and a seeded SQLite demo with a serverless entry point.
 
-<p align="center">
-  <a href="https://github.com/VijaySreekar?tab=repositories">Explore my repositories</a>
-  ·
-  <a href="https://github.com/VijaySreekar?tab=followers">Follow my work</a>
-</p>
+**PHP · SQLite · Bootstrap · JavaScript**
 
-<p align="center"><sub>Original “London → Cloud” artwork created for this profile.</sub></p>
+[View demo code](https://github.com/VijaySreekar/treakers-demo) · [Explore the store](https://treakers-demo.vercel.app/) · [Original team project](https://github.com/VijaySreekar/Team-27)
+
+## More work
+
+[**Alarm App**](https://github.com/VijaySreekar/AlarmApp) — a React Native/Expo prototype for labeled alarms and repeat schedules.
+
+[**Project index**](./PROJECTS.md) — the full collection, including earlier coursework and clearly identified forks.
+
+## Tools I work with
+
+| Area | Tools used across these projects |
+| :--- | :--- |
+| Backend & data | Python, FastAPI, PostgreSQL, SQLAlchemy, pandas |
+| Interfaces | TypeScript, React, Next.js, Streamlit, PHP |
+| Delivery | Docker, GitHub Actions, Vercel, Render |
+
+I’m interested in the decisions behind a working product: where state lives, how an API fits its interface, and what happens when a dependency fails. The project READMEs cover setup, structure, and current limitations.
