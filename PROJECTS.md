@@ -1,27 +1,31 @@
-# Project index
+# Projects
 
-A guide to my projects and current development work, with public source links, team work, and forks identified separately.
+[← Back to profile](./README.md)
 
-[Back to my profile](./README.md)
+## Current work
+
+**AI ERP** — An enterprise resource planning project with an AI focus. In development.
+
+**[Wandrix](https://github.com/VijaySreekar/Wandrix-Live)** — Travel conversations, an editable trip board, and saved brochures. In development.<br>
+Python · FastAPI · Next.js · PostgreSQL · LangGraph<br>
+[Website](https://www.wandrix.app/) · [Architecture](https://github.com/VijaySreekar/Wandrix-Live#architecture)
 
 ## Applications
 
-| Project | What it does | Context | Explore |
-| :--- | :--- | :--- | :--- |
-| **AI ERP** | Enterprise resource planning project with an AI focus | In development | [Overview](./README.md#ai-erp) |
-| **Wandrix** | Conversation-based travel planning with an editable trip board and saved brochures | Ongoing application | [Code](https://github.com/VijaySreekar/Wandrix-Live) · [Website](https://www.wandrix.app/) |
-| **Spotify Insights** | Artist, track, day, and hourly analysis of listening-history exports | Coauthored with [GanapathiThota](https://github.com/GanapathiThota) | [Code](https://github.com/VijaySreekar/StreamLitSpotifyInsights) · [Local demo](https://github.com/VijaySreekar/StreamLitSpotifyInsights#run-locally) |
-| **Treakers** | Sneaker e-commerce storefront and admin workflows | Aston University Year 2, Team 27; original project and later demo adaptation | [Demo code](https://github.com/VijaySreekar/treakers-demo) · [Original](https://github.com/VijaySreekar/Team-27) · [Demo](https://treakers-demo.vercel.app/) |
-| **Alarm App** | Multiple labeled alarms with repeat settings | React Native/Expo prototype; the README describes in-memory alarm storage | [Code](https://github.com/VijaySreekar/AlarmApp) |
+**[Spotify Insights](https://github.com/VijaySreekar/StreamLitSpotifyInsights)** — Listening-history analysis by artist, track, day, and hour. Coauthored with [GanapathiThota](https://github.com/GanapathiThota).<br>
+Python · pandas · Streamlit<br>
+[Local setup & sample data](https://github.com/VijaySreekar/StreamLitSpotifyInsights#run-locally)
+
+**[Treakers](https://github.com/VijaySreekar/treakers-demo)** — Sneaker storefront and admin dashboard, built by Team 27 at Aston University. The demo adapts the original university project with seeded SQLite data.<br>
+PHP · SQLite · Bootstrap<br>
+[Live demo](https://treakers-demo.vercel.app/) · [Original Team 27 repository](https://github.com/VijaySreekar/Team-27) · [Screenshots](https://github.com/VijaySreekar/treakers-demo#screenshots)
+
+**[Alarm App](https://github.com/VijaySreekar/AlarmApp)** — A React Native/Expo prototype for labeled alarms and repeat schedules. Alarm storage is in memory.
 
 ## Forks and coursework
 
-These repositories retain their upstream context. A fork is not a claim of an accepted upstream contribution.
+- **[Codex-WindowsApp](https://github.com/VijaySreekar/Codex-WindowsApp)** — Fork of [aidanqm/Codex-Windows](https://github.com/aidanqm/Codex-Windows), a tool for running Codex on Windows.
+- **[PLC2024](https://github.com/VijaySreekar/PLC2024)** — Java coursework fork. [Original repository](https://github.com/khanAston/PLC2023-24).
+- **[InstructorRepo](https://github.com/VijaySreekar/InstructorRepo)** — GitHub learning exercise. [Original repository](https://github.com/khanAston/InstructorRepo).
 
-| Repository | Context | Upstream |
-| :--- | :--- | :--- |
-| [Codex-WindowsApp](https://github.com/VijaySreekar/Codex-WindowsApp) | Fork of a tool for running the Codex desktop app on Windows | [aidanqm/Codex-Windows](https://github.com/aidanqm/Codex-Windows) |
-| [PLC2024](https://github.com/VijaySreekar/PLC2024) | Java coursework fork | [khanAston/PLC2023-24](https://github.com/khanAston/PLC2023-24) |
-| [InstructorRepo](https://github.com/VijaySreekar/InstructorRepo) | GitHub learning exercise | [khanAston/InstructorRepo](https://github.com/khanAston/InstructorRepo) |
-
-The [profile repository](https://github.com/VijaySreekar/VijaySreekar) contains this index and the profile artwork.
+The [profile repository](https://github.com/VijaySreekar/VijaySreekar) contains the portfolio README and image assets.
