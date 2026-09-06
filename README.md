@@ -7,11 +7,17 @@
 
 I build backend services and the interfaces around them. My work spans travel planning, data analysis, and web applications, with a focus on Python, APIs, and how data moves through a product.
 
-Currently building **[Wandrix](https://www.wandrix.app/)**, a travel planner that keeps a conversation and a structured trip board side by side.
+Currently building **AI ERP**, an enterprise resource planning project with an AI focus, and **[Wandrix](https://www.wandrix.app/)**, a travel planner that keeps a conversation and a structured trip board side by side.
 
 [Selected projects](#selected-projects) · [All projects](./PROJECTS.md) · [Repositories](https://github.com/VijaySreekar?tab=repositories)
 
 ## Selected projects
+
+### AI ERP
+
+An ongoing enterprise resource planning project I'm building with an AI focus.
+
+<sub>Currently in development.</sub>
 
 ### Wandrix
 
