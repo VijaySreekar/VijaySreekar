@@ -20,12 +20,12 @@ Python · pandas · Streamlit<br>
 PHP · SQLite · Bootstrap<br>
 [Live demo](https://treakers-demo.vercel.app/) · [Original Team 27 repository](https://github.com/VijaySreekar/Team-27) · [Screenshots](https://github.com/VijaySreekar/treakers-demo#screenshots)
 
-**[Alarm App](https://github.com/VijaySreekar/AlarmApp)** — A React Native/Expo prototype for labeled alarms and repeat schedules. Alarm storage is in memory.
+**[Alarm App](https://github.com/VijaySreekar/AlarmApp)** — A React Native/Expo alarm clock prototype with saved alarms, local notifications, and a five-minute snooze.
 
 ## Forks and coursework
 
 - **[Codex-WindowsApp](https://github.com/VijaySreekar/Codex-WindowsApp)** — Fork of [aidanqm/Codex-Windows](https://github.com/aidanqm/Codex-Windows), a tool for running Codex on Windows.
-- **[PLC2024](https://github.com/VijaySreekar/PLC2024)** — Java coursework fork. [Original repository](https://github.com/khanAston/PLC2023-24).
+- **[PLC2024](https://github.com/VijaySreekar/PLC2024)** — Programming Language Concepts coursework across Java, Haskell, and other languages. [Original repository](https://github.com/khanAston/PLC2023-24).
 - **[InstructorRepo](https://github.com/VijaySreekar/InstructorRepo)** — GitHub learning exercise. [Original repository](https://github.com/khanAston/InstructorRepo).
 
 The [profile repository](https://github.com/VijaySreekar/VijaySreekar) contains the portfolio README and image assets.
