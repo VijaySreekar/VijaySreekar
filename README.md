@@ -3,17 +3,21 @@
   <img src="./assets/hero-animated.gif" width="100%" alt="Animated London skyline flowing into cloud infrastructure">
 </picture>
 
-# Vijay Sreekar
+<h1 align="center">Vijay Sreekar</h1>
 
-I build backend services and product interfaces with Python and TypeScript.
-
-**Currently building:** Wandrix, a travel planner, and **AI ERP**, an enterprise resource planning project with an AI focus. Both are in development.
+<p align="center">I build backend services and product interfaces with Python and TypeScript.</p>
 
 <p align="center">
   <img alt="Focus: Backend and Cloud" src="https://img.shields.io/badge/FOCUS-Backend_%26_Cloud-61cbff?style=flat-square&labelColor=0d1727">
   <img alt="Building: Wandrix and AI ERP" src="https://img.shields.io/badge/BUILDING-Wandrix_%2B_AI_ERP-e6b85c?style=flat-square&labelColor=0d1727">
   <img alt="Exploring: Applied AI" src="https://img.shields.io/badge/EXPLORING-Applied_AI-56d364?style=flat-square&labelColor=0d1727">
 </p>
+
+<p align="center">
+  <a href="#selected-work">Projects</a> · <a href="#open-source-contributions">Open source</a> · <a href="#engineering-stack">Stack</a>
+</p>
+
+**Currently building:** Wandrix, a travel planner, and **AI ERP**, an enterprise resource planning project with an AI focus. Both are in development.
 
 ## Selected work
 
@@ -58,11 +62,28 @@ I build backend services and product interfaces with Python and TypeScript.
 
 [**Browse all projects →**](./PROJECTS.md) — includes Alarm App, original team repositories, and coursework.
 
-## Technical focus
+## Open-source contributions
 
-APIs and backend services · Relational data · Web interfaces
+Selected public contributions will be added here.
 
-Python, TypeScript, FastAPI, PostgreSQL, React, Next.js, Docker, and GitHub Actions.
+| Project | Contribution | PR / issue |
+| :--- | :--- | :--- |
+| *Coming soon* | — | — |
+
+<!-- Placeholder only. Replace with verified public contributions and direct PR/issue links. -->
+
+## GitHub snapshot
+
+<p align="center">
+  <img width="100%" alt="Vijay's contribution history and public repository count" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VijaySreekar&theme=github_dark">
+</p>
+
+<p align="center">
+  <img width="49%" alt="Vijay's stars, commits, pull requests, issues, and contributed repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijaySreekar&theme=github_dark">
+  <img width="49%" alt="Languages across Vijay's public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VijaySreekar&theme=github_dark">
+</p>
+
+<p align="center"><sub>Generated from public GitHub activity; updates depend on the card service.</sub></p>
 
 ## A little about me
 
@@ -74,6 +95,10 @@ Python, TypeScript, FastAPI, PostgreSQL, React, Next.js, Docker, and GitHub Acti
 </p>
 
 ## Engineering stack
+
+APIs and backend services · Relational data · Web interfaces
+
+Python, TypeScript, FastAPI, PostgreSQL, React, Next.js, Docker, and GitHub Actions.
 
 <sub><strong>CORE SYSTEMS</strong></sub>
 <p>
@@ -115,19 +140,6 @@ I care about the full delivery path around a backend service: explicit contracts
     <img width="100%" alt="Animated code-to-cloud pipeline moving through code, API design, tests, container build, cloud deployment, and observability" src="./assets/code-to-cloud.gif">
   </picture>
 </p>
-
-## GitHub snapshot
-
-<p align="center">
-  <img width="100%" alt="Vijay's contribution history and public repository count" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VijaySreekar&theme=github_dark">
-</p>
-
-<p align="center">
-  <img height="180" alt="Vijay's stars, commits, pull requests, issues, and contributed repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijaySreekar&theme=github_dark">
-  <img height="180" alt="Languages across Vijay's public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VijaySreekar&theme=github_dark">
-</p>
-
-<p align="center"><sub>Generated from public GitHub activity; updates depend on the card service.</sub></p>
 
 ---
 
