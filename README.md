@@ -43,7 +43,7 @@ An interactive analysis of listening history: favourite artists, repeated tracks
 
 **Python · pandas · Streamlit · Matplotlib · Seaborn**
 
-[View code & sample data](https://github.com/VijaySreekar/StreamLitSpotifyInsights) · [Try the app](https://appspotifyinsights-zdr4w9e8yfszel8mxq275p.streamlit.app/)
+[View code & sample data](https://github.com/VijaySreekar/StreamLitSpotifyInsights) · [Run the demo locally](https://github.com/VijaySreekar/StreamLitSpotifyInsights#run-locally)
 
 ### Treakers
 

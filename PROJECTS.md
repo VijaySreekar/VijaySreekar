@@ -9,7 +9,7 @@ A guide to my public projects, with original team work and forks identified sepa
 | Project | What it does | Context | Explore |
 | :--- | :--- | :--- | :--- |
 | **Wandrix** | Conversation-based travel planning with an editable trip board and saved brochures | Ongoing application | [Code](https://github.com/VijaySreekar/Wandrix-Live) · [Website](https://www.wandrix.app/) |
-| **Spotify Insights** | Artist, track, day, and hourly analysis of listening-history exports | Coauthored with [GanapathiThota](https://github.com/GanapathiThota) | [Code](https://github.com/VijaySreekar/StreamLitSpotifyInsights) · [Demo](https://appspotifyinsights-zdr4w9e8yfszel8mxq275p.streamlit.app/) |
+| **Spotify Insights** | Artist, track, day, and hourly analysis of listening-history exports | Coauthored with [GanapathiThota](https://github.com/GanapathiThota) | [Code](https://github.com/VijaySreekar/StreamLitSpotifyInsights) · [Local demo](https://github.com/VijaySreekar/StreamLitSpotifyInsights#run-locally) |
 | **Treakers** | Sneaker e-commerce storefront and admin workflows | Aston University Year 2, Team 27; original project and later demo adaptation | [Demo code](https://github.com/VijaySreekar/treakers-demo) · [Original](https://github.com/VijaySreekar/Team-27) · [Demo](https://treakers-demo.vercel.app/) |
 | **Alarm App** | Multiple labeled alarms with repeat settings | React Native/Expo prototype; the README describes in-memory alarm storage | [Code](https://github.com/VijaySreekar/AlarmApp) |
 
