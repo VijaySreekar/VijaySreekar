@@ -64,13 +64,13 @@
 
 ## Open-source contributions
 
-Selected public contributions will be added here.
+I contribute focused fixes to open-source projects, with regression tests and clear verification notes.
 
-| Project | Contribution | PR / issue |
-| :--- | :--- | :--- |
-| *Coming soon* | — | — |
+| Project | Contribution | Pull request | Status |
+| :--- | :--- | :--- | :--- |
+| [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) | Made `memory stop` verify the process listening on its target port before terminating it, added an explicit `--force` override, and covered the behavior with real-process regression tests. | [PR #1219](https://github.com/doobidoo/mcp-memory-service/pull/1219) · [Issue #1211](https://github.com/doobidoo/mcp-memory-service/issues/1211) | Open |
 
-<!-- Placeholder only. Replace with verified public contributions and direct PR/issue links. -->
+[**View all of my pull requests →**](https://github.com/search?q=is%3Apr+author%3AVijaySreekar&type=pullrequests)
 
 ## GitHub snapshot
 
