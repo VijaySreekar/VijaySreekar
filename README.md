@@ -66,10 +66,11 @@
 
 I contribute focused fixes to open-source projects, with regression tests and clear verification notes.
 
-| Project | Contribution | PR / issue |
-| :--- | :--- | :--- |
-| [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) | Made `memory stop` verify the process listening on its target port before terminating it, added an explicit `--force` override, and covered the behavior with real-process regression tests. | [PR #1219](https://github.com/doobidoo/mcp-memory-service/pull/1219) · [Issue #1211](https://github.com/doobidoo/mcp-memory-service/issues/1211) |
-| [Zulip](https://github.com/zulip/zulip) | Improving emoji and global-time popover arrows so they match the adjacent interface colors across placements, viewport sizes, and light and dark themes. | [Issue #38931](https://github.com/zulip/zulip/issues/38931) |
+| Project | Contribution | Status | PR / issue |
+| :--- | :--- | :--- | :--- |
+| [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) | Guarded maintenance scripts against accidental writes by making help safe, showing the selected storage target, requiring confirmation for destructive operations, and refusing ONNX repairs on non-local backends. Added regression coverage for the safety checks. | In review | [PR #1232](https://github.com/doobidoo/mcp-memory-service/pull/1232) · [Issue #1226](https://github.com/doobidoo/mcp-memory-service/issues/1226) |
+| [Zulip](https://github.com/zulip/zulip) | Updated emoji-picker arrows to match the adjacent section across placements, viewport sizes, and light and dark themes, with automated and manual regression coverage. | In review | [PR #40124](https://github.com/zulip/zulip/pull/40124) · [Issue #38931](https://github.com/zulip/zulip/issues/38931) |
+| [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) | Made `memory stop` verify the process listening on its target port before terminating it, added an explicit `--force` override, and covered the behavior with real-process regression tests. | Merged | [PR #1219](https://github.com/doobidoo/mcp-memory-service/pull/1219) · [Issue #1211](https://github.com/doobidoo/mcp-memory-service/issues/1211) |
 
 [**View all of my pull requests →**](https://github.com/search?q=is%3Apr+author%3AVijaySreekar&type=pullrequests)
 
