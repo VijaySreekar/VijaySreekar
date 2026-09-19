@@ -40,19 +40,20 @@ I build backend services and product interfaces with a focus on clear contracts,
 
 ## Open source
 
-I also contribute focused changes upstream, from retrieval quality and safer maintenance tooling to interface details.
+### Repositories
+
+- [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service)
+- [Zulip](https://github.com/zulip/zulip)
+
+### Pull requests
 
 <table width="100%">
-<thead><tr><th align="left">Selected contributions</th></tr></thead>
+<thead><tr><th align="left">Selected pull requests</th></tr></thead>
 <tbody>
-<tr><td valign="top">
-<strong><a href="https://github.com/doobidoo/mcp-memory-service">MCP Memory Service</a></strong><br>
-<sub>Retrieval quality and developer tooling</sub><p><a href="https://github.com/doobidoo/mcp-memory-service/pull/1267">Quality scoring #1267</a> · retrieval checks and tests<br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1232">Safer maintenance scripts #1232</a> · script safeguards<br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1219">Safe process stopping #1219</a> · process handling</p>
-</td></tr>
-<tr><td valign="top">
-<strong><a href="https://github.com/zulip/zulip">Zulip</a></strong><br>
-<sub>Interface polish</sub><p><a href="https://github.com/zulip/zulip/pull/40124">Emoji-picker arrow styling #40124</a> · consistent across layouts and themes</p>
-</td></tr>
+<tr><td><a href="https://github.com/doobidoo/mcp-memory-service/pull/1267">Quality scoring #1267</a></td></tr>
+<tr><td><a href="https://github.com/doobidoo/mcp-memory-service/pull/1232">Safer maintenance scripts #1232</a></td></tr>
+<tr><td><a href="https://github.com/doobidoo/mcp-memory-service/pull/1219">Safe process stopping #1219</a></td></tr>
+<tr><td><a href="https://github.com/zulip/zulip/pull/40124">Emoji-picker arrow styling #40124</a></td></tr>
 </tbody>
 </table>
 
