@@ -7,7 +7,7 @@
 
 I build backend services and product interfaces with a focus on clear contracts, useful tests, and software people can depend on.
 
-[Projects](#featured-projects) · [Skills](#skills) · [Open source](#open-source) · [Contributions](#js-contribution-activity-description) · [LinkedIn](https://www.linkedin.com/in/vijay-sreekar-kakarapalli/)
+[Projects](#featured-projects) · [Open source](#open-source) · [Skills](#skills) · [Contributions](#js-contribution-activity-description) · [LinkedIn](https://www.linkedin.com/in/vijay-sreekar-kakarapalli/)
 
 ## Featured projects
 
@@ -37,6 +37,26 @@ I build backend services and product interfaces with a focus on clear contracts,
 - **AI ERP (in progress)** — A separate private enterprise-platform project. Its AI capabilities are planned, not presented here as shipped.
 
 [See the full project index](./PROJECTS.md)
+
+## Open source
+
+I also contribute focused changes upstream, from retrieval quality and safer maintenance tooling to interface details.
+
+<table width="100%">
+<thead><tr><th align="left">Selected contributions</th></tr></thead>
+<tbody>
+<tr><td valign="top">
+<strong><a href="https://github.com/doobidoo/mcp-memory-service">MCP Memory Service</a></strong><br>
+<sub>Retrieval quality and developer tooling</sub><p><a href="https://github.com/doobidoo/mcp-memory-service/pull/1267">Quality scoring #1267</a> · retrieval checks and tests<br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1232">Safer maintenance scripts #1232</a> · script safeguards<br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1219">Safe process stopping #1219</a> · process handling</p>
+</td></tr>
+<tr><td valign="top">
+<strong><a href="https://github.com/zulip/zulip">Zulip</a></strong><br>
+<sub>Interface polish</sub><p><a href="https://github.com/zulip/zulip/pull/40124">Emoji-picker arrow styling #40124</a> · consistent across layouts and themes</p>
+</td></tr>
+</tbody>
+</table>
+
+[Browse all authored pull requests](https://github.com/search?q=is%3Apr+author%3AVijaySreekar&type=pullrequests)
 
 ## Skills
 
@@ -97,18 +117,6 @@ I build backend services and product interfaces with a focus on clear contracts,
 </p>
 
 <sub>Also used Go in the PulseCheck personal project and Java in university coursework. Practical delivery includes unit and integration testing, CI/CD, peer review and Scrum.</sub>
-
-## Open source
-
-<table width="100%">
-<thead><tr><th>Project</th><th>Contributions</th></tr></thead>
-<tbody>
-<tr><td><strong>MCP Memory Service</strong></td><td><a href="https://github.com/doobidoo/mcp-memory-service/pull/1267">Quality scoring #1267</a><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1232">Safer maintenance scripts #1232</a><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1219">Safe process stopping #1219</a></td></tr>
-<tr><td><strong>Zulip</strong></td><td><a href="https://github.com/zulip/zulip/pull/40124">Emoji-picker arrow styling #40124</a> across layouts and themes</td></tr>
-</tbody>
-</table>
-
-[View all authored pull requests](https://github.com/search?q=is%3Apr+author%3AVijaySreekar&type=pullrequests)
 
 ## Contribution activity
 
