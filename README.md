@@ -7,9 +7,9 @@
 
 I build backend services and product interfaces with a focus on clear contracts, useful tests, and software people can depend on.
 
-[Products](#featured-products) · [Skills](#skills) · [Open source](#open-source) · [LinkedIn](https://www.linkedin.com/in/vijay-sreekar-kakarapalli/)
+[Projects](#featured-projects) · [Skills](#skills) · [Open source](#open-source) · [Contributions](#js-contribution-activity-description) · [LinkedIn](https://www.linkedin.com/in/vijay-sreekar-kakarapalli/)
 
-## Featured products
+## Featured projects
 
 <table width="100%">
 <tr><td>
@@ -67,9 +67,16 @@ I build backend services and product interfaces with a focus on clear contracts,
 
 ## Open source
 
-Focused fixes with links to the code and review:
-
-- **MCP Memory Service:** [quality scoring #1267](https://github.com/doobidoo/mcp-memory-service/pull/1267), [safer maintenance scripts #1232](https://github.com/doobidoo/mcp-memory-service/pull/1232), and [safe process stopping #1219](https://github.com/doobidoo/mcp-memory-service/pull/1219).
-- **Zulip:** [emoji-picker arrow styling #40124](https://github.com/zulip/zulip/pull/40124) across layouts and themes.
+<table width="100%">
+<thead><tr><th>Project</th><th>Contributions</th></tr></thead>
+<tbody>
+<tr><td><strong>MCP Memory Service</strong></td><td><a href="https://github.com/doobidoo/mcp-memory-service/pull/1267">Quality scoring #1267</a><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1232">Safer maintenance scripts #1232</a><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1219">Safe process stopping #1219</a></td></tr>
+<tr><td><strong>Zulip</strong></td><td><a href="https://github.com/zulip/zulip/pull/40124">Emoji-picker arrow styling #40124</a> across layouts and themes</td></tr>
+</tbody>
+</table>
 
 [View all authored pull requests](https://github.com/search?q=is%3Apr+author%3AVijaySreekar&type=pullrequests)
+
+## Contribution activity
+
+[View my GitHub contribution graph](https://github.com/VijaySreekar#js-contribution-activity-description). GitHub displays it below the pinned repositories and includes anonymized private contributions.
