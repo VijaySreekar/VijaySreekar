@@ -40,20 +40,17 @@ I build backend services and product interfaces with a focus on clear contracts,
 
 ## Open source
 
-### Repositories
-
-- [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service)
-- [Zulip](https://github.com/zulip/zulip)
-
-### Pull requests
-
 <table width="100%">
-<thead><tr><th align="left">Selected pull requests</th></tr></thead>
+<thead><tr><th align="left">Repository</th><th align="left">Pull requests</th></tr></thead>
 <tbody>
-<tr><td><a href="https://github.com/doobidoo/mcp-memory-service/pull/1267">Quality scoring #1267</a></td></tr>
-<tr><td><a href="https://github.com/doobidoo/mcp-memory-service/pull/1232">Safer maintenance scripts #1232</a></td></tr>
-<tr><td><a href="https://github.com/doobidoo/mcp-memory-service/pull/1219">Safe process stopping #1219</a></td></tr>
-<tr><td><a href="https://github.com/zulip/zulip/pull/40124">Emoji-picker arrow styling #40124</a></td></tr>
+<tr>
+<td valign="top"><a href="https://github.com/doobidoo/mcp-memory-service">MCP Memory Service</a></td>
+<td valign="top"><a href="https://github.com/doobidoo/mcp-memory-service/pull/1267">Quality scoring #1267</a><br><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1232">Safer maintenance scripts #1232</a><br><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1219">Safe process stopping #1219</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/zulip/zulip">Zulip</a></td>
+<td valign="top"><a href="https://github.com/zulip/zulip/pull/40124">Emoji-picker arrow styling #40124</a></td>
+</tr>
 </tbody>
 </table>
 
