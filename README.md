@@ -9,28 +9,25 @@ I build backend services and product interfaces with a focus on clear contracts,
 
 [Products](#featured-products) · [Skills](#skills) · [Open source](#open-source) · [LinkedIn](https://www.linkedin.com/in/vijay-sreekar-kakarapalli/)
 
-## GitHub at a glance
-
-<p align="center">
-  <img width="380" alt="GitHub activity card showing stars, commits, pull requests, issues and contributed repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijaySreekar&theme=github_dark">
-  <img width="380" alt="Languages across public GitHub repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VijaySreekar&theme=github_dark">
-</p>
-
-<sub>Cards reflect public GitHub activity and may update after GitHub does.</sub>
-
 ## Featured products
 
-### [Orbit ERP](https://orbit-erp-psi.vercel.app/)
+<table width="100%">
+<tr><td>
+<h3><a href="https://orbit-erp-psi.vercel.app/">Orbit ERP</a></h3>
+<p>A live portfolio edition of a modular business system I developed with Manikata Tej. Explore editable fictional records across sales, inventory, finance, payroll and projects using <strong>Demo login</strong>. The source is private, and this demo is separate from the original business system.</p>
+<p><strong>Next.js · FastAPI · PostgreSQL</strong></p>
+<p><a href="https://orbit-erp-psi.vercel.app/">Explore the live demo</a></p>
+</td></tr>
+</table>
 
-A live portfolio edition of a modular business system developed in collaboration with Manikata Tej. Use **Demo login** to explore editable fictional records and workflows across sales, inventory, finance, payroll and projects. Built with Next.js, FastAPI and PostgreSQL. The source is private; the demo is separate from the original business system.
-
-[Open the live demo](https://orbit-erp-psi.vercel.app/)
-
-### [Wandrix](https://www.wandrix.app/)
-
-An AI travel planner that keeps a conversation beside an editable trip board. Trips can be saved across sessions, turned into brochure snapshots and exported as PDFs. Built with Next.js, FastAPI, PostgreSQL and LangGraph.
-
-[Visit Wandrix](https://www.wandrix.app/) · [Explore the code](https://github.com/VijaySreekar/Wandrix-Live)
+<table width="100%">
+<tr><td>
+<h3><a href="https://www.wandrix.app/">Wandrix</a></h3>
+<p>An AI travel planner with a conversation beside an editable trip board. Save trips across sessions, create brochure snapshots and export PDFs.</p>
+<p><strong>Next.js · FastAPI · PostgreSQL · LangGraph</strong></p>
+<p><a href="https://www.wandrix.app/">Visit Wandrix</a> · <a href="https://github.com/VijaySreekar/Wandrix-Live">Explore the code</a></p>
+</td></tr>
+</table>
 
 ## More projects
 
