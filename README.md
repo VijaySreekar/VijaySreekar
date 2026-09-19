@@ -40,30 +40,63 @@ I build backend services and product interfaces with a focus on clear contracts,
 
 ## Skills
 
-**Backend and data**
+**Languages**
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-0d1727?style=flat-square&logo=python&logoColor=e6b85c">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1727?style=flat-square&logo=typescript&logoColor=61cbff">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d1727?style=flat-square&logo=fastapi&logoColor=61cbff">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1727?style=flat-square&logo=postgresql&logoColor=61cbff">
-  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0d1727?style=flat-square&logo=sqlalchemy&logoColor=e6b85c">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0d1727?style=flat-square&logo=python&logoColor=61cbff">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1727?style=flat-square&logo=typescript&logoColor=e6b85c">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1727?style=flat-square&logo=javascript&logoColor=61cbff">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0d1727?style=flat-square&logoColor=e6b85c">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-0d1727?style=flat-square&logo=php&logoColor=61cbff">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1727?style=flat-square&logo=html5&logoColor=e6b85c">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0d1727?style=flat-square&logo=css3&logoColor=61cbff">
 </p>
 
-**Interfaces and planning**
+**Frontend and product**
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-0d1727?style=flat-square&logo=react&logoColor=61cbff">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1727?style=flat-square&logo=nextdotjs&logoColor=ffffff">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1727?style=flat-square&logo=nextdotjs&logoColor=e6b85c">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-0d1727?style=flat-square&logo=react&logoColor=61cbff">
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-0d1727?style=flat-square&logo=expo&logoColor=e6b85c">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0d1727?style=flat-square&logo=tailwindcss&logoColor=61cbff">
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0d1727?style=flat-square&logoColor=e6b85c">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-0d1727?style=flat-square&logo=streamlit&logoColor=e6b85c">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-0d1727?style=flat-square&logo=figma&logoColor=61cbff">
 </p>
 
-**Delivery and quality**
+**APIs and data**
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1727?style=flat-square&logo=docker&logoColor=61cbff">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1727?style=flat-square&logo=githubactions&logoColor=e6b85c">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0d1727?style=flat-square&logo=microsoftazure&logoColor=61cbff">
-  <img alt="SonarCloud" src="https://img.shields.io/badge/SonarCloud-0d1727?style=flat-square&logo=sonarcloud&logoColor=e6b85c">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d1727?style=flat-square&logo=fastapi&logoColor=61cbff">
+  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-0d1727?style=flat-square&logo=pydantic&logoColor=e6b85c">
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0d1727?style=flat-square&logo=sqlalchemy&logoColor=61cbff">
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-0d1727?style=flat-square&logoColor=e6b85c">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1727?style=flat-square&logo=postgresql&logoColor=61cbff">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-0d1727?style=flat-square&logo=oracle&logoColor=e6b85c">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0d1727?style=flat-square&logo=sqlite&logoColor=61cbff">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-0d1727?style=flat-square&logo=pandas&logoColor=e6b85c">
 </p>
+
+**AI and identity**
+<p>
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0d1727?style=flat-square&logoColor=61cbff">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0d1727?style=flat-square&logo=langchain&logoColor=e6b85c">
+  <img alt="pgvector" src="https://img.shields.io/badge/pgvector-0d1727?style=flat-square&logoColor=61cbff">
+  <img alt="Supabase Auth" src="https://img.shields.io/badge/Supabase_Auth-0d1727?style=flat-square&logo=supabase&logoColor=e6b85c">
+  <img alt="Amazon Cognito" src="https://img.shields.io/badge/Amazon_Cognito-0d1727?style=flat-square&logo=amazonaws&logoColor=61cbff">
+  <img alt="RBAC" src="https://img.shields.io/badge/RBAC-0d1727?style=flat-square&logoColor=e6b85c">
+</p>
+
+**Cloud and delivery**
+<p>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0d1727?style=flat-square&logo=microsoftazure&logoColor=61cbff">
+  <img alt="Azure Functions" src="https://img.shields.io/badge/Azure_Functions-0d1727?style=flat-square&logo=azurefunctions&logoColor=e6b85c">
+  <img alt="Azure Monitor" src="https://img.shields.io/badge/Azure_Monitor-0d1727?style=flat-square&logoColor=61cbff">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1727?style=flat-square&logo=docker&logoColor=e6b85c">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1727?style=flat-square&logo=githubactions&logoColor=61cbff">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-0d1727?style=flat-square&logo=vercel&logoColor=e6b85c">
+  <img alt="SonarCloud" src="https://img.shields.io/badge/SonarCloud-0d1727?style=flat-square&logo=sonarcloud&logoColor=61cbff">
+  <img alt="Git" src="https://img.shields.io/badge/Git-0d1727?style=flat-square&logo=git&logoColor=e6b85c">
+</p>
+
+<sub>Also used Go in the PulseCheck personal project and Java in university coursework. Practical delivery includes unit and integration testing, CI/CD, peer review and Scrum.</sub>
 
 ## Open source
 
@@ -79,4 +112,6 @@ I build backend services and product interfaces with a focus on clear contracts,
 
 ## Contribution activity
 
-[View my GitHub contribution graph](https://github.com/VijaySreekar#js-contribution-activity-description). GitHub displays it below the pinned repositories and includes anonymized private contributions.
+<p><a href="https://github.com/VijaySreekar#js-contribution-activity-description"><img src="./assets/contributions-2026-09-19.svg" alt="GitHub contribution calendar from September 2025 to September 2026, captured 19 September 2026" width="100%"></a></p>
+
+<sub>Snapshot captured 19 September 2026 from GitHub’s contribution calendar. The live calendar appears below my pinned repositories.</sub>
