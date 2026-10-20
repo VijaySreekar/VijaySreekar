@@ -7,7 +7,7 @@
 
 I build backend services and product interfaces with a focus on clear contracts, useful tests, and software people can depend on.
 
-[Projects](#featured-projects) · [Open source](#open-source) · [Skills](#skills) · [Contributions](#js-contribution-activity-description) · [LinkedIn](https://www.linkedin.com/in/vijay-sreekar-kakarapalli/)
+[Projects](#featured-projects) · [Open source](#open-source) · [Skills](#skills) · [Contributions](#js-contribution-activity-description) · [Public issues](https://github.com/search?q=is%3Aissue+author%3AVijaySreekar&type=issues) · [LinkedIn](https://www.linkedin.com/in/vijay-sreekar-kakarapalli/)
 
 ## Featured projects
 
@@ -34,7 +34,7 @@ I build backend services and product interfaces with a focus on clear contracts,
 - **[Spotify Insights](https://github.com/VijaySreekar/StreamLitSpotifyInsights)** — A Streamlit app co-built with [GanapathiThota](https://github.com/GanapathiThota) to explore uploaded listening-history exports by artist, track, day and hour. Includes fictional sample data.
 - **[Treakers](https://github.com/VijaySreekar/treakers-demo)** — A Team 27 university sneaker storefront and admin dashboard built with PHP. The [live demo](https://treakers-demo.vercel.app/) uses seeded SQLite data.
 - **[Alarm App](https://github.com/VijaySreekar/AlarmApp)** — A React Native/Expo prototype with saved alarms, local notifications and a five-minute snooze.
-- **AI ERP (in progress)** — A separate private enterprise-platform project. Its AI capabilities are planned, not presented here as shipped.
+- **AI ERP (in progress)** — A separate private enterprise-platform project with active work on workflow authoring, role-based access, inventory configuration, notifications and reviewed imports. Its AI capabilities remain planned.
 
 [See the full project index](./PROJECTS.md)
 
@@ -45,16 +45,16 @@ I build backend services and product interfaces with a focus on clear contracts,
 <tbody>
 <tr>
 <td valign="top"><a href="https://github.com/doobidoo/mcp-memory-service">MCP Memory Service</a></td>
-<td valign="top"><a href="https://github.com/doobidoo/mcp-memory-service/pull/1267">Quality scoring #1267</a><br><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1232">Safer maintenance scripts #1232</a><br><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1219">Safe process stopping #1219</a></td>
+<td valign="top"><a href="https://github.com/doobidoo/mcp-memory-service/pull/1552">Review bands and safer superseding #1552</a><br><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1449">Query-aware search summaries #1449</a><br><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1267">Quality scoring #1267</a><br><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1232">Safer maintenance scripts #1232</a><br><br><a href="https://github.com/doobidoo/mcp-memory-service/pull/1219">Safe process stopping #1219</a></td>
 </tr>
 <tr>
 <td valign="top"><a href="https://github.com/zulip/zulip">Zulip</a></td>
-<td valign="top"><a href="https://github.com/zulip/zulip/pull/40124">Emoji-picker arrow styling #40124</a></td>
+<td valign="top"><a href="https://github.com/zulip/zulip/pull/40124">Emoji-picker arrow styling #40124</a> (open)</td>
 </tr>
 </tbody>
 </table>
 
-[Browse all authored pull requests](https://github.com/search?q=is%3Apr+author%3AVijaySreekar&type=pullrequests)
+[Browse all authored pull requests](https://github.com/search?q=is%3Apr+author%3AVijaySreekar&type=pullrequests) · [Browse public issues](https://github.com/search?q=is%3Aissue+author%3AVijaySreekar&type=issues)
 
 ## Skills
 
@@ -118,6 +118,6 @@ I build backend services and product interfaces with a focus on clear contracts,
 
 ## Contribution activity
 
-<p><a href="https://github.com/VijaySreekar#js-contribution-activity-description"><img src="./assets/contributions-2026-09-19.svg" alt="GitHub contribution calendar from September 2025 to September 2026, captured 19 September 2026" width="100%"></a></p>
+<p><a href="https://github.com/VijaySreekar#js-contribution-activity-description"><img src="./assets/contributions-2026-10-20.svg" alt="GitHub contribution calendar from October 2025 to October 2026, captured 20 October 2026" width="100%"></a></p>
 
-<sub>Snapshot captured 19 September 2026 from GitHub’s contribution calendar. The live calendar appears below my pinned repositories.</sub>
+<sub>Snapshot captured 20 October 2026 from GitHub’s contribution calendar. The live calendar appears below my pinned repositories.</sub>

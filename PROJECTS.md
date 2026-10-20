@@ -28,7 +28,13 @@ An AI travel planner with a conversation beside a structured, editable trip boar
 
 ## In progress
 
-**AI ERP** — A separate private enterprise-platform project. Its AI capabilities remain planned; this is not the Orbit ERP portfolio edition.
+**AI ERP** — A separate private enterprise-platform project in active development. Recent work covers configurable workflow and form authoring, customer workspaces, role-based access, inventory configuration, batch and serial tracking, notifications and reviewed data-import flows. Its AI capabilities remain planned; this is not the Orbit ERP portfolio edition.
+
+## Open-source contributions
+
+**[MCP Memory Service](https://github.com/doobidoo/mcp-memory-service)** — Five merged pull requests covering safer process control and maintenance scripts, more robust quality scoring, opt-in query-aware search summaries, and review-band handling. [Browse the pull requests](https://github.com/search?q=repo%3Adoobidoo%2Fmcp-memory-service+is%3Apr+author%3AVijaySreekar&type=pullrequests).
+
+**[Zulip](https://github.com/zulip/zulip)** — An active frontend contribution refining emoji-picker popover arrow styling across light and dark themes. [View pull request #40124](https://github.com/zulip/zulip/pull/40124).
 
 ## Forks and coursework
 
